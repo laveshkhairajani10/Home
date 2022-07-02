@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lavesh-me/static/css/main.76506595.css",
+    "main.js": "/lavesh-me/static/js/main.22c80682.js",
+    "static/js/787.1ed0c42c.chunk.js": "/lavesh-me/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/lavesh-me/index.html",
+    "main.76506595.css.map": "/lavesh-me/static/css/main.76506595.css.map",
+    "main.22c80682.js.map": "/lavesh-me/static/js/main.22c80682.js.map",
+    "787.1ed0c42c.chunk.js.map": "/lavesh-me/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76506595.css",
+    "static/js/main.22c80682.js"
+  ]
+}
